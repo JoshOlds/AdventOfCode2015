@@ -1,0 +1,1 @@
+console.log("To run any of these solutions, please run 'node x.js' , where 'x.js' is the day of the challenge: i.e. 'node day1.js")
